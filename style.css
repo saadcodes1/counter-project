@@ -1,0 +1,12 @@
+.button {
+    border: none;
+    outline: 2px;
+    background-color: aqua;
+    border-radius: 4px;
+    padding: 8px;
+    font-size: large;
+    cursor: pointer;
+    margin: 3px;
+    
+}
+
